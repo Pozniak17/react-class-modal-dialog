@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-class-modal-dialog/static/css/main.7acaea2f.css",
+    "main.js": "/react-class-modal-dialog/static/js/main.07d3183d.js",
+    "index.html": "/react-class-modal-dialog/index.html",
+    "main.7acaea2f.css.map": "/react-class-modal-dialog/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/react-class-modal-dialog/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
