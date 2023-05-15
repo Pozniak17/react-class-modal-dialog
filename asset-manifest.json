@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-class-modal-dialog/static/css/main.7acaea2f.css",
-    "main.js": "/react-class-modal-dialog/static/js/main.07d3183d.js",
+    "main.css": "/react-class-modal-dialog/static/css/main.62db77a5.css",
+    "main.js": "/react-class-modal-dialog/static/js/main.1e2969df.js",
     "index.html": "/react-class-modal-dialog/index.html",
-    "main.7acaea2f.css.map": "/react-class-modal-dialog/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-class-modal-dialog/static/js/main.07d3183d.js.map"
+    "main.62db77a5.css.map": "/react-class-modal-dialog/static/css/main.62db77a5.css.map",
+    "main.1e2969df.js.map": "/react-class-modal-dialog/static/js/main.1e2969df.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.62db77a5.css",
+    "static/js/main.1e2969df.js"
   ]
 }
